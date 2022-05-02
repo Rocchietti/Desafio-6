@@ -96,6 +96,7 @@ footer{
     padding: 20px;
     animation: clave 4s ease-in-out 1s ;
     animation-iteration-count: infinite;
+    box-sizing: content-box;
 }
 @keyframes clave {
     0%{
