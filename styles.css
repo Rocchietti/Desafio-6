@@ -24,16 +24,6 @@ ul{
     display: flex;
     justify-content: space-evenly;
 }
-.naveg{
-    font-size: 15px;
-    font-family: maven pro, sans-serif;
-    list-style-type: none;
-    padding: 5px;
-    transition: all 3s;
-}
-.naveg:hover{
-    padding: 5px; background-color: greenyellow;
-}
 main{
     grid-area: main;
     background-color: beige;
